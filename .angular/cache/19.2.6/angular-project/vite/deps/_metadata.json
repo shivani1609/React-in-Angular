@@ -1,0 +1,76 @@
+{
+  "hash": "e08e15ae",
+  "configHash": "81744b57",
+  "lockfileHash": "513ec9fd",
+  "browserHash": "eb838951",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "132c63c9",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "59b79244",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "ffbe0940",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "7ef3815a",
+      "needsInterop": false
+    },
+    "@joelwenzel/ng-flowchart": {
+      "src": "../../../../../../node_modules/@joelwenzel/ng-flowchart/fesm2022/joelwenzel-ng-flowchart.mjs",
+      "file": "@joelwenzel_ng-flowchart.js",
+      "fileHash": "89652cf2",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../../../../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "af690b0b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../../../../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b97e94ad",
+      "needsInterop": true
+    },
+    "reactflow": {
+      "src": "../../../../../../node_modules/reactflow/dist/esm/index.mjs",
+      "file": "reactflow.js",
+      "fileHash": "8dd265f0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KW36YDJS": {
+      "file": "chunk-KW36YDJS.js"
+    },
+    "chunk-RIK3WI45": {
+      "file": "chunk-RIK3WI45.js"
+    },
+    "chunk-AJNMPRPM": {
+      "file": "chunk-AJNMPRPM.js"
+    },
+    "chunk-FRMEWK3W": {
+      "file": "chunk-FRMEWK3W.js"
+    },
+    "chunk-MCVWWDXD": {
+      "file": "chunk-MCVWWDXD.js"
+    },
+    "chunk-TXDUYLVM": {
+      "file": "chunk-TXDUYLVM.js"
+    }
+  }
+}
